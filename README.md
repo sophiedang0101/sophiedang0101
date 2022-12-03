@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sophiedang0101
 - 👀 I’m interested in Cybersecurity and Back-End Development.
-- 🌱 I’m currently learning Python, advanced Java and SQL, security defenses, and computer architecture.   
+- 🌱 I’m currently learning Python, advanced Java/SQL, security defenses, data structures/algorithms, and computer architecture.   
 - 💞️ I’m looking to collaborate on exciting cybersecurity and back-end projects with individuals who are new to programming like myself.
 - 📫 You can reach me here via GitHub! 
 
